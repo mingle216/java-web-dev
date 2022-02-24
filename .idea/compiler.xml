@@ -8,12 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="java-web-dev" />
         <module name="quickstart" />
+        <module name="book-online" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="book-online" target="1.8" />
       <module name="java-web-dev" target="1.8" />
-      <module name="quickstart" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
